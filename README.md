@@ -14,17 +14,10 @@
 
 ### 👨‍💻 About Me
 ```typescript
-const ahmed = {
-  title: "Cybersecurity Engineer & Software Developer",
-  education: "BSc Information Security @ GIU",
-  location: "Cairo, Egypt 🇪🇬",
-  focus: ["Penetration Testing", "Secure Software Development", "Cloud Security"],
-  currentlyLearning: ["Advanced Exploitation", "Cloud Architecture", "AI Security"],
-  funFact: "I find vulnerabilities before attackers do 🔍"
-};
+Bachelor’s degree in Informatics and Computer Science from the German International University, specializing in Information Security and Software Engineering. My focus is on developing reliable, scalable software while embedding security by design, bridging the gap between software engineering and cybersecurity.
 ```
 
-🔐 **Cybersecurity Specialist** with expertise in penetration testing, vulnerability assessment, and secure software development  
+🔐 **Cybersecurity Specialist** with expertise in penetration testing, vulnerability assessment, GRC, and secure software development  
 💻 **Full-Stack Developer** building scalable, secure applications with modern architectures  
 ☁️ **Cloud Enthusiast** working with AWS services and serverless architectures  
 🤖 **AI Integration** - Leveraging AI for security education and automation
@@ -148,7 +141,6 @@ const ahmed = {
 - HackBuddy AI assistant
 - Safe learning environment
 
-**Tech:** React, Node.js, AI Integration
 
 </td>
 <td width="50%" valign="top">
@@ -161,7 +153,6 @@ const ahmed = {
 - Secure inter-service communication
 - Real-time processing
 
-**Tech:** Docker, RabbitMQ, PostgreSQL
 
 </td>
 </tr>
@@ -176,7 +167,6 @@ const ahmed = {
 - Remediation plans
 - Security hardening
 
-**Tech:** Burp Suite, OWASP ZAP
 
 </td>
 <td width="50%" valign="top">
@@ -189,7 +179,6 @@ const ahmed = {
 - DynamoDB, S3, SQS
 - IAM security controls
 
-**Tech:** AWS, Serverless, React
 
 </td>
 </tr>
