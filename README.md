@@ -216,34 +216,10 @@ My focus is on developing reliable, scalable software while embedding security b
 
 ### 🏆 Achievements
 
-- 🎓 **Junior Teaching Assistant** @ GIU - Java & Secure Coding
-- 💼 **Information Security Intern** @ AAIB - Application Security
-- 🌍 **AI Connects Workshop** @ GIU Berlin - Built CyberAware Platform
-- 🛡️ **433+ Contributions** in 2025 - Consistent development
-- 📚 **Teaching Experience** - 50+ students in secure coding practices
+- 🎓 **Junior Teaching Assistant** @ GIU 
+- 💼 **Information Security Intern** @ AAIB
+- 🌍 **AI Connects Workshop** @ GIU Berlin
 
----
-
-### 📈 Current Focus
-```python
-current_goals = {
-    "learning": [
-        "Advanced Penetration Testing Techniques",
-        "Kubernetes Security",
-        "AI-Powered Security Tools"
-    ],
-    "building": [
-        "Full-Stack Portfolio with Logging System",
-        "Automated Vulnerability Scanner",
-        "Security Training Platform"
-    ],
-    "certifications": [
-        "CEH (Certified Ethical Hacker)",
-        "OSCP (Offensive Security Certified Professional)",
-        "AWS Security Specialty"
-    ]
-}
-```
 
 ---
 
