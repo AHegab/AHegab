@@ -123,6 +123,18 @@ My focus is on developing reliable, scalable software while embedding security b
 
 </div>
 
+## 🌐 E-Commerce & Edge Platforms
+
+<div align="center">
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify API](https://img.shields.io/badge/Shopify_APIs-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+
 
 ---
 
