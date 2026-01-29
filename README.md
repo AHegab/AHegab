@@ -13,9 +13,10 @@
 ---
 
 ### 👨‍💻 About Me
-```typescript
-Bachelor’s degree in Informatics and Computer Science from the German International University, specializing in Information Security and Software Engineering. My focus is on developing reliable, scalable software while embedding security by design, bridging the gap between software engineering and cybersecurity.
-```
+
+Bachelor’s degree in Informatics and Computer Science from the German International University, specializing in Information Security and Software Engineering.
+My focus is on developing reliable, scalable software while embedding security by design, bridging the gap between software engineering and cybersecurity.
+
 
 🔐 **Cybersecurity Specialist** with expertise in penetration testing, vulnerability assessment, GRC, and secure software development  
 💻 **Full-Stack Developer** building scalable, secure applications with modern architectures  
@@ -238,7 +239,7 @@ current_goals = {
 
 <div align="center">
 
-💼 **Open to:** Security Internships | Software Development Roles | Freelance Projects  
+💼 **Open to:** Redteam Roles | Software Development Roles | Freelance Projects  
 🎯 **Interested in:** Cybersecurity | Cloud Security | Secure Software Development  
 📫 **Reach me:** amhegab305@gmail.com  
 🌐 **Portfolio:** [ahmedhegab.com](https://ahmedhegab.com)
@@ -247,15 +248,6 @@ current_goals = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AHegab&color=00ff9f&style=flat-square&label=Profile+Views" />
-  
-  ### 💡 "Security is not a product, but a process" - Bruce Schneier
-</div>
 
----
 
-<div align="center">
-  <sub>⚡ Built with passion for cybersecurity and clean code</sub>
-</div>
 
