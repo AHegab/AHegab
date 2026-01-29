@@ -1,3 +1,36 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Hegab;Cybersecurity+Engineer;Software+Developer;Cloud+Architect" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🛡️ Securing Software, One Line at a Time 💻</h3>
+
+<p align="center">
+  <a href="mailto:amhegab305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-hegab-29305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ahmedhegab.com"><img src="https://img.shields.io/badge/Portfolio-00FF9F?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+```typescript
+const ahmed = {
+  title: "Cybersecurity Engineer & Software Developer",
+  education: "BSc Information Security @ GIU",
+  location: "Cairo, Egypt 🇪🇬",
+  focus: ["Penetration Testing", "Secure Software Development", "Cloud Security"],
+  currentlyLearning: ["Advanced Exploitation", "Cloud Architecture", "AI Security"],
+  funFact: "I find vulnerabilities before attackers do 🔍"
+};
+```
+
+🔐 **Cybersecurity Specialist** with expertise in penetration testing, vulnerability assessment, and secure software development  
+💻 **Full-Stack Developer** building scalable, secure applications with modern architectures  
+☁️ **Cloud Enthusiast** working with AWS services and serverless architectures  
+🤖 **AI Integration** - Leveraging AI for security education and automation
+
+---
+
 ## 💻 Programming Languages
 
 <div align="center">
@@ -103,3 +136,145 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
 </div>
+
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CyberAware Platform
+*Interactive Cybersecurity Training*
+
+- AI-powered security education
+- Simulates: SQL Injection, XSS, CSRF
+- HackBuddy AI assistant
+- Safe learning environment
+
+**Tech:** React, Node.js, AI Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Personal Finance Tracker
+*Microservices Architecture*
+
+- Event-driven design
+- Encrypted data storage
+- Secure inter-service communication
+- Real-time processing
+
+**Tech:** Docker, RabbitMQ, PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔓 OWASP Juice Shop Pentest
+*Security Assessment*
+
+- Found 20+ vulnerabilities
+- SQLi, XSS, Auth bypasses
+- Remediation plans
+- Security hardening
+
+**Tech:** Burp Suite, OWASP ZAP
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS Cloud Task Manager
+*Serverless Architecture*
+
+- Full-stack cloud-native app
+- Lambda, API Gateway, Cognito
+- DynamoDB, S3, SQS
+- IAM security controls
+
+**Tech:** AWS, Serverless, React
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHegab&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHegab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHegab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+- 🎓 **Junior Teaching Assistant** @ GIU - Java & Secure Coding
+- 💼 **Information Security Intern** @ AAIB - Application Security
+- 🌍 **AI Connects Workshop** @ GIU Berlin - Built CyberAware Platform
+- 🛡️ **433+ Contributions** in 2025 - Consistent development
+- 📚 **Teaching Experience** - 50+ students in secure coding practices
+
+---
+
+### 📈 Current Focus
+```python
+current_goals = {
+    "learning": [
+        "Advanced Penetration Testing Techniques",
+        "Kubernetes Security",
+        "AI-Powered Security Tools"
+    ],
+    "building": [
+        "Full-Stack Portfolio with Logging System",
+        "Automated Vulnerability Scanner",
+        "Security Training Platform"
+    ],
+    "certifications": [
+        "CEH (Certified Ethical Hacker)",
+        "OSCP (Offensive Security Certified Professional)",
+        "AWS Security Specialty"
+    ]
+}
+```
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+💼 **Open to:** Security Internships | Software Development Roles | Freelance Projects  
+🎯 **Interested in:** Cybersecurity | Cloud Security | Secure Software Development  
+📫 **Reach me:** amhegab305@gmail.com  
+🌐 **Portfolio:** [ahmedhegab.com](https://ahmedhegab.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AHegab&color=00ff9f&style=flat-square&label=Profile+Views" />
+  
+  ### 💡 "Security is not a product, but a process" - Bruce Schneier
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Built with passion for cybersecurity and clean code</sub>
+</div>
+
