@@ -85,7 +85,6 @@ My focus is on developing reliable, scalable software while embedding security b
 </div>
 
 ---
-
 ## 🛡️ Cybersecurity Tools
 
 <div align="center">
@@ -102,9 +101,40 @@ My focus is on developing reliable, scalable software while embedding security b
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua)
 ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge)
+![Tenable](https://img.shields.io/badge/Tenable-00BFFF?style=for-the-badge&logo=tenable&logoColor=white)
 
 </div>
 
+---
+
+## 🔬 Application Security (SAST · DAST · MAST · SCA)
+
+<div align="center">
+
+### 🔍 SAST — Static Analysis
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-FF6B35?style=for-the-badge&logo=semgrep&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-0078D7?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 DAST — Dynamic Analysis
+![Invicti](https://img.shields.io/badge/Invicti-F04E23?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable_WAS-00BFFF?style=for-the-badge&logoColor=white)
+
+### 📱 MAST — Mobile Analysis
+![MobSF](https://img.shields.io/badge/MobSF-00897B?style=for-the-badge&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-FF6D00?style=for-the-badge&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-263238?style=for-the-badge&logoColor=white)
+
+### 📦 SCA — Software Composition Analysis
+![Black Duck](https://img.shields.io/badge/Black_Duck-BD1B2C?style=for-the-badge&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![OWASP Dependency Check](https://img.shields.io/badge/OWASP_Dep--Check-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy_SCA-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+
+</div>
 ---
 
 ## 🗄️ Databases, Messaging & Observability
