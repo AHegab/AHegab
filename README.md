@@ -116,6 +116,11 @@ My focus is on developing reliable, scalable software while embedding security b
 ![Semgrep](https://img.shields.io/badge/Semgrep-FF6B35?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-0078D7?style=for-the-badge&logo=github&logoColor=white)
+![Coverity](https://img.shields.io/badge/Coverity-CC0000?style=for-the-badge&logoColor=white)
+
+### 🔄 IAST — Interactive Analysis
+![Black Duck](https://img.shields.io/badge/Black_Duck_IAST-BD1B2C?style=for-the-badge&logoColor=white)
+![Invicti](https://img.shields.io/badge/Invicti_IAST-F04E23?style=for-the-badge&logoColor=white)
 
 ### 🌐 DAST — Dynamic Analysis
 ![Invicti](https://img.shields.io/badge/Invicti-F04E23?style=for-the-badge&logoColor=white)
@@ -168,90 +173,6 @@ My focus is on developing reliable, scalable software while embedding security b
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ CyberAware Platform
-*Interactive Cybersecurity Training*
-
-- AI-powered security education
-- Simulates: SQL Injection, XSS, CSRF
-- HackBuddy AI assistant
-- Safe learning environment
-
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Personal Finance Tracker
-*Microservices Architecture*
-
-- Event-driven design
-- Encrypted data storage
-- Secure inter-service communication
-- Real-time processing
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔓 OWASP Juice Shop Pentest
-*Security Assessment*
-
-- Found 20+ vulnerabilities
-- SQLi, XSS, Auth bypasses
-- Remediation plans
-- Security hardening
-
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud Task Manager
-*Serverless Architecture*
-
-- Full-stack cloud-native app
-- Lambda, API Gateway, Cognito
-- DynamoDB, S3, SQS
-- IAM security controls
-
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHegab&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHegab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHegab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" />
-</div>
-
----
-
-### 🏆 Achievements
-
-- 🎓 **Junior Teaching Assistant** @ GIU 
-- 💼 **Information Security Intern** @ AAIB
-- 🌍 **AI Connects Workshop** @ GIU Berlin
-
-
----
 
 ### 🤝 Let's Connect!
 
